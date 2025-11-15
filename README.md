@@ -145,15 +145,23 @@ VPN-конфигурации на вашем устройстве удобнее
 </details>
 
 ## Приложения на ПК и телефоне: 
-- **💻 Windows/Linux/MacOS** - установите официальный клиент v2rayN и запустите "Режим VPN".
+- **💻 Windows/Linux/MacOS** - установите официальный клиент v2rayN или Throne (бывш.Nekoray), добавьте конфиг/подписку, обновите ее, из появившегося списка выберите один из серверов начиная сверху-вниз, в конце запустите "Режим VPN/Режим TUN".
 
-  https://github.com/2dust/v2rayN/releases
+1) v2rayN: https://github.com/2dust/v2rayN/releases
   
-  Выбираем `v2rayN-windows-64.zip` для Windows
+   `v2rayN-windows-64.zip` для Windows
   
-  Выбираем `v2rayN-linux-64.deb` для Linux
+   `v2rayN-linux-64.deb` для Linux (Ubuntu)
   
-  Выбираем `v2rayN-macos-64.dmg` для MacOS
+   `v2rayN-macos-64.dmg` для MacOS
+
+2) Throne (бывш.Nekoray): https://github.com/throneproj/Throne/releases
+
+   `Throne-1.0.8-windows64-installer.exe` для Windows
+  
+   `Throne-1.0.8-debian-x64.deb` для Linux (Ubuntu)
+  
+   `Throne-1.0.8-macos-arm64.zip` для MacOS
 
 - **📱 iOS** - используйте Streisand или v2RayTun из App Store.
 
